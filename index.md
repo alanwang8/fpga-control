@@ -61,7 +61,7 @@ Want to build on or replicate our work? Follow the steps below:
 
 ### 1. Clone the Repo
 ### 2. Synthesize and run SystemVerilog code on FPGA-accessible computers (found in Hamerschlag Hall ECE Labs)
-### 3. Turn on the robot and program it with Arduino code from this Repo (Robot Model: 4WD 60mm Mecanum Wheel Arduino Robot).
+### 3. Turn on the robot and program it with Arduino code from this Repo.
 ### 4. Run the Python script on a camera-accessible computer to communicate between the FPGA and the robot.
 ### 5. Use a piece of paper with distinctly different colors near the center to let the camera images detect color movement in.
 
@@ -79,6 +79,16 @@ While our project successfully demonstrated FPGA-based control and image process
 These extensions would increase the project’s robustness, usability, and real-world applicability.
 
 We also had some limitations to our project. Due to licensing issues, we were forced to utilize 2 separate computers on top of the FPGA and Arduino. This increased the latency of our system significantly. Our IMU also broke midway through, which forced us to rely on time-based control. Future work can aim to improve upon these limitations.
+
+---
+
+## 🤖 Equipment Specifications
+
+FPGA: Xilinx Spartan-7 XC7S50-CSGA324
+- Link to FPGA details: https://www.realdigital.org/hardware/boolean
+
+Robot: 4WD 60mm Mecanum Wheel Arduino Robot Kit
+- Link to robot details: https://www.robotshop.com/products/4wd-60mm-mecanum-wheel-arduino-robot
 
 ---
 
