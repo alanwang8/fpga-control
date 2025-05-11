@@ -87,9 +87,13 @@ We also had some limitations to our project. Due to licensing issues, we were fo
 ## 🤖 Equipment Specifications
 
 FPGA: Xilinx Spartan-7 XC7S50-CSGA324
+![FPGA Image](fpga.png)  
+*Fig 1. Image of our FPGA*
 - [Link to FPGA details](https://www.realdigital.org/hardware/boolean)
 
 Robot: 4WD 60mm Mecanum Wheel Arduino Robot Kit
+![Robot Image](robot.png)  
+*Fig 2. Image of our robot*
 - [Link to robot details](https://www.robotshop.com/products/4wd-60mm-mecanum-wheel-arduino-robot)
 
 ---
