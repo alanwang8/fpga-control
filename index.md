@@ -14,7 +14,7 @@ After several weeks of design, simulation, and hardware implementation, we have 
 
 ---
 
-## 📽 Final Demo Video (8 Minutes)
+## 📽 Final Demo Video
 
 Watch our completed video walkthrough, which explains:
 
@@ -60,7 +60,24 @@ We implemented a **PID-style feedback controller** and a **simple image-processi
 Want to build on or replicate our work? Follow the steps below:
 
 ### 1. Clone the Repo
-### 2. Synthesize and Run SystemVerilog code on FPGA-accessible computers (found in Hamerschlag Hall ECE Labs)
-### 3. Turn on robot and program it with Arduino code from this Repo (Robot Model: 4WD 60mm Mecanum Wheel Arduino Robot).
-### 4. Run Python script on a camera-accessible computer to communicate between FPGA and robot.
-### 5. Use a piece of paper with distinctly different colors near the center to let camera images detect color movement in.
+### 2. Synthesize and run SystemVerilog code on FPGA-accessible computers (found in Hamerschlag Hall ECE Labs)
+### 3. Turn on the robot and program it with Arduino code from this Repo (Robot Model: 4WD 60mm Mecanum Wheel Arduino Robot).
+### 4. Run the Python script on a camera-accessible computer to communicate between the FPGA and the robot.
+### 5. Use a piece of paper with distinctly different colors near the center to let the camera images detect color movement in.
+
+---
+
+## 🧠 How to Improve Upon Our Results
+
+While our project successfully demonstrated FPGA-based control and image processing, there are several ways to build on this work listed below:
+
+- Extend the image processing pipeline, e.g., edge detection or basic filters
+- Scale the design to control multiple devices in parallel
+- Create a GUI or web interface for live tuning and visualization
+- Use a higher-capacity FPGA to explore more complex or multi-threaded designs
+
+These extensions would increase the project’s robustness, usability, and real-world applicability.
+
+## 🙏 Acknowledgments
+
+Thanks to the CMU ECE Department for hardware/toolchain support and to our professor and TA in _16-299: Introduction to Feedback Control Systems_ for their guidance.
