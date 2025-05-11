@@ -23,13 +23,13 @@ Watch our completed video walkthrough, which explains:
 - A live working demo of our FPGA-based system in action
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://drive.google.com/file/d/1vkFJ1gqCDn_TWnkpy9AIMkSjLia_XL-l/preview" 
+  <iframe src="https://drive.google.com/file/d/12UBp6VQBLN1dcGleFxKiBkXemtxF6Iyb/preview" 
           style="position: absolute; top:0; left: 0; width: 100%; height: 100%;" 
           frameborder="0" allowfullscreen>
   </iframe>
 </div>
 
-> 🎥 Prefer a direct link? [Watch the full demo on Google Drive](https://drive.google.com/file/d/1vkFJ1gqCDn_TWnkpy9AIMkSjLia_XL-l/view)
+> 🎥 Prefer a direct link? [Watch the full demo on Google Drive](https://drive.google.com/file/d/12UBp6VQBLN1dcGleFxKiBkXemtxF6Iyb/view)
 
 ---
 
