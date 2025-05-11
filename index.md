@@ -78,6 +78,8 @@ While our project successfully demonstrated FPGA-based control and image process
 
 These extensions would increase the project’s robustness, usability, and real-world applicability.
 
+We also had some limitations to our project. Due to licensing issues, we were forced to utilize 2 separate computers on top of the FPGA and Arduino. This increased the latency of our system significantly. Our IMU also broke midway through, which forced us to rely on time-based control. Future work can aim to improve upon these limitations.
+
 ---
 
 ## 🙏 Acknowledgments
