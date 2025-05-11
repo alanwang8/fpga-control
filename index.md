@@ -78,6 +78,8 @@ While our project successfully demonstrated FPGA-based control and image process
 
 These extensions would increase the project’s robustness, usability, and real-world applicability.
 
+---
+
 ## 🙏 Acknowledgments
 
 Thanks to the CMU ECE Department for hardware/toolchain support and to our professor and TA in _16-299: Introduction to Feedback Control Systems_ for their guidance.
